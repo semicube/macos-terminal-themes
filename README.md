@@ -308,6 +308,10 @@ _Note_: preview will be generated using [ANSI Escape Sequences][3]
 
 ![Screenshot](screenshots/grass.png)
 
+### Gruber Darker ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/Gruber Darker.terminal>))
+
+![Screenshot](screenshots/gruber_darker.png)
+
 ### gruvbox ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/gruvbox.terminal>))
 
 ![Screenshot](screenshots/gruvbox.png)
